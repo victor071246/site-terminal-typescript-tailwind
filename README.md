@@ -22,4 +22,4 @@ Este projeto é uma landing page responsiva desenvolvida com **React**, **TypeSc
 - [TypeScript](https://www.typescriptlang.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [Vite](https://vitejs.dev/)
-- [Vercel](https://vercel.com/) (deploy)
+- [Vercel](https://site-terminal-typescript-tail-git-bc4efc-victor071246s-projects.vercel.app/) (deploy)
